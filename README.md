@@ -1,4 +1,4 @@
-# 🏡 Airbnb Listings Analytics Dashboard | Power BI
+# 🏡 Airbnb Listings Analytics Dashboard | Power BI | Python | Excel
 
 ## 📌 Project Overview
 
